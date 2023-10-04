@@ -10,4 +10,6 @@ Developed By:
 *AmirReza Mazinani*
 
 site url: https://aicup2023.ir
+
+game's github: https://github.com/AI-Cup-Kernel
  
