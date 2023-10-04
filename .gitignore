@@ -1,0 +1,15 @@
+resources/Game.o
+resources/MainProgram.o
+client.o
+game.exe
+.vscode
+src/blueprints/__pycache__/
+src/tools/__pycache__/
+src/components/__pycache__/
+.DS_Store
+.vscode/
+src/turn_controllers/__pycache__/
+result_log/
+src/__pycache__/ 
+__pycache__/
+
