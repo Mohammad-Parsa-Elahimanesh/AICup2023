@@ -7,7 +7,7 @@ Developed By:
 
 *Mohammad Parsa Elahimanesh*
 
-*AmirReza Mazinani*
+*Amirreza Mazinani*
 
 site url: https://aicup2023.ir
 
